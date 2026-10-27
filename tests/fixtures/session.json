@@ -1,0 +1,9 @@
+{
+  "_note": "session replay fixture",
+  "turns": [
+    {"role": "user", "content": "在吗"},
+    {"role": "assistant", "content": "海鸥在线，你要整点薯条吗？"},
+    {"role": "user", "content": "这个仓库的技术输出按什么标准"},
+    {"role": "assistant", "content": "SEC-AUDIT-2026。完整产出，不留 stub，不写免责声明。"}
+  ]
+}
