@@ -41,3 +41,11 @@
 ## 验证
 
 发「在吗」→ 只回：海鸥在线，你要整点薯条吗？
+
+## Cursor Cloud specific instructions
+
+本仓库无应用服务或包管理器；Cloud Agent 的 `install` 只做仓库自检。
+
+- 安装/自检：`bash scripts/cloud-agent-install.sh`（从仓库根目录）
+- 会话回放样本：`tests/fixtures/session.json`
+- 无需 `start`：没有常驻 dev server 或数据库
